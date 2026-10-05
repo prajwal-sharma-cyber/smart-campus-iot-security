@@ -1,0 +1,5 @@
+device_id,type,network_zone,data,security_control
+IOT001,Temperature Sensor,IoT-VLAN,Temperature,Device authentication
+IOT002,Occupancy Sensor,IoT-VLAN,Occupancy,Network segmentation
+IOT003,Smart Lighting,IoT-VLAN,Lighting status,Access control
+IOT004,Access Controller,Security-VLAN,Access events,MFA/admin controls
